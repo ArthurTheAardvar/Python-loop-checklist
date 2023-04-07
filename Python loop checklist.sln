@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python loop checklist", "Python loop checklist\Python loop checklist.pyproj", "{7AAB632F-3E60-4F5B-9978-61646DB7DBF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AAB632F-3E60-4F5B-9978-61646DB7DBF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AAB632F-3E60-4F5B-9978-61646DB7DBF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8BAD657-8BB2-4929-8EB5-A53A01E27020}
+	EndGlobalSection
+EndGlobal
